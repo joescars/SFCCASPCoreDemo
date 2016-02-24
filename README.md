@@ -1,4 +1,4 @@
-# SFCCASPCoreDemo
+# South Florida Code Camp ASP.NET Core Demo
 ASP.net Core 1.0 Demo from South Florida Code Camp 2016
 
 This example project was used to demo ASP.NET Core 1.0. 
